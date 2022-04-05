@@ -1,0 +1,10 @@
+.ItemCount {
+    max-width: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Counter{
+    font-size: 2rem;
+}
